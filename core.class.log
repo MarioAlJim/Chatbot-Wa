@@ -1,0 +1,133 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219671033036@s.whatsapp.net',
+    fromMe: false,
+    id: 'A1CEB517272A806772D9A5E2CD726AA3',
+    participant: undefined
+  },
+  messageTimestamp: 1711993654,
+  pushName: 'Enrique',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Cómo que familia jajajaja',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo que familia jajajaja',
+  from: '5219671033036'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_24239f69-1525-4472-878a-b69de674c30b',
+  keyword: 'key_d286fe2f-95e1-4eda-936f-aa107fa65e3d',
+  answer: '🙌 Aquí encontras un información sobre la Inscripción en Línea.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6290f88c9c844d287b6c8cf5db770a7d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_37574596-8c9c-4f13-8778-a4d627c53341',
+  keyword: 'ans_24239f69-1525-4472-878a-b69de674c30b',
+  answer: '💻 *IL1*. ¿Qué es la IL? \n' +
+    '💻 *IL2*. ¿Cuándo es la IL? \n' +
+    '💻 *IL3*. Recomendaciones.  \n' +
+    '💻 *IL4*. ¿Cómo o cuándo escogeré mi horario para el siguiente periodo escolar? \n' +
+    '💻 *IL5*. ¿Podremos escoger con qué maestro inscribo las experiencias educativas de mi siguiente periodo escolar? \n' +
+    '💻 *IL6*. ¿Las experiencias educativas de PLANEA, son las que cursaré en el próximo periodo escolar? ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f44b6cfe1ba13e647311008ece933704'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219671033036@s.whatsapp.net',
+    fromMe: false,
+    id: '9923903B1BC59F330CC6B8BD1A0BC08B',
+    participant: undefined
+  },
+  messageTimestamp: 1711993674,
+  pushName: 'Enrique',
+  broadcast: false,
+  message: Message {
+    conversation: 'Feliz cumpleaños hijo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Feliz cumpleaños hijo',
+  from: '5219671033036'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219671033036@s.whatsapp.net',
+    fromMe: false,
+    id: '3E20382959563902D5C881B756126C7C',
+    participant: undefined
+  },
+  messageTimestamp: 1711993681,
+  pushName: 'Enrique',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que te la pases de lo mejor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que te la pases de lo mejor',
+  from: '5219671033036'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219671033036@s.whatsapp.net',
+    fromMe: false,
+    id: '68370856CB7309AB3F3DF58924FC187B',
+    participant: undefined
+  },
+  messageTimestamp: 1711993690,
+  pushName: 'Enrique',
+  broadcast: false,
+  message: Message {
+    conversation: 'Te cuidas mucho y te mando un muy fuerte abrazo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Te cuidas mucho y te mando un muy fuerte abrazo',
+  from: '5219671033036'
+}
