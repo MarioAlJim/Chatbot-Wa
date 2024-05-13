@@ -1,32 +1,153 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '5219671033036@s.whatsapp.net',
+    remoteJid: '5212281939039@s.whatsapp.net',
     fromMe: false,
-    id: 'A1CEB517272A806772D9A5E2CD726AA3',
+    id: '65F925A4737DD15AECC815CC60D3C023',
     participant: undefined
   },
-  messageTimestamp: 1711993654,
-  pushName: 'Enrique',
+  messageTimestamp: 1715627122,
+  pushName: 'Christopher🍕',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Cómo que familia jajajaja',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
+    conversation: '.',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Cómo que familia jajajaja',
-  from: '5219671033036'
+  body: '.',
+  from: '5212281939039'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_24239f69-1525-4472-878a-b69de674c30b',
-  keyword: 'key_d286fe2f-95e1-4eda-936f-aa107fa65e3d',
-  answer: '🙌 Aquí encontras un información sobre la Inscripción en Línea.',
+  ref: 'ans_e1c980c7-9819-4e3c-88d2-5b88fa06f653',
+  keyword: 'key_a70fe927-5596-4b97-ae3d-552959bd5d76',
+  answer: '🙌  ¡Hola, bienvenidos al Chatbot DAFIE UV! Puedo compartirte respuestas a preguntas frecuentes sobre tutorías.',
+  options: {
+    media: 'https://www.uv.mx/chinaveracruz/files/2014/09/flor-uv-01-1024x791.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3e013fd8b375cbf649fe4e741ca5754d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4be76866-39ec-462e-8db3-55ac76fa98cd',
+  keyword: 'ans_e1c980c7-9819-4e3c-88d2-5b88fa06f653',
+  answer: '❗Instrucciones: Del siguiente menú, anota el *numero* de la opción que mejor describe el tema de tu interés. \n' +
+    'Para regresar a este menú, escribe las palabras “*hola*” o “*inicio*”.\n' +
+    'Si la información no es suficiente, puedes contactarnos por las vías de siempre =)\n' +
+    '\n' +
+    '👉 *Apoyo* Areas de apoyo estudiantil\n' +
+    '👉 *Servicios* Servicios estudiantiles',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '11c3fce5537ef2ea7e835b7424c6f36a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212281939039@s.whatsapp.net',
+    fromMe: false,
+    id: 'DD6D1F8ADA50ABF3B26C6D8E94ADF4A3',
+    participant: undefined
+  },
+  messageTimestamp: 1715627127,
+  pushName: 'Christopher🍕',
+  broadcast: false,
+  message: Message {
+    conversation: 'Servicios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Servicios',
+  from: '5212281939039'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_94c26b44-c475-4f2a-912e-4ff11188e559',
+  keyword: 'key_b246ad87-4621-4e07-a52f-85332a565f67',
+  answer: '❗Instrucciones: Del siguiente menú, anota el *numero* de la opción que mejor describe el tema de tu interés. \n' +
+    'Para regresar a este menú, escribe las palabras “*hola*” o “*inicio*”.\n' +
+    '\n' +
+    '👉 *1* Actividades deportivas\n' +
+    '👉 *2* Bibliotecarios\n' +
+    '👉 *3* Centro de idiomas\n' +
+    '👉 *4* Investigación\n' +
+    '👉 *5* Movilidad nacional e internacional\n' +
+    '👉 *6* Servicios de salud\n' +
+    '👉 *7* Servicios tecnológicos\n' +
+    '👉 *8* Servicios vinculación\n' +
+    '👉 *9* Inscripción en línea ',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4b5a47304cf8fbe9c0452f9480bc9d5c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5212281939039@s.whatsapp.net',
+    fromMe: false,
+    id: '938F8AF302E4590C9169C6BEB984FF04',
+    participant: undefined
+  },
+  messageTimestamp: 1715627131,
+  pushName: 'Christopher🍕',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5212281939039'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b303036-95a2-43a3-8869-fa84f3765599',
+  keyword: 'key_6ecdb11a-60b8-4585-bd4f-58d22464aac5',
+  answer: ' 📕La Dirección General de Bibliotecas coordina todos los servicios ofrecidos por las bibliotecas universitarias. https://www.uv.mx/dgbuv/\n' +
+    '\n' +
+    'El Sistema Bibliotecario está integrado por 57 bibliotecas (35 en facultades, 12 en Institutos, 4 en UVI y 6 Unidades de Servicios Bibliotecarios y de Información – USBI)  distribuidas en las cinco regiones UV.  A continuación, te presentamos algunos de los servicios proporcionados:\n' +
+    'Préstamo interno o en sala, consiste en utilizar los recursos documentales dentro del espacio físico de la biblioteca.\n' +
+    'Préstamo externo o a domicilio, son los recursos documentales que puedes llevarte a casa.\n' +
+    'Préstamo Interbibliotecario, los usuarios integrantes de la UV podrán acceder a los recursos documentales de las bibliotecas del Sistema y de otras Instituciones de Educación Superior, a través de www.uv.mx/dgbuv/prestamo-interbibliotecario/\n' +
+    'Para obtener información más detallada sobre los servicios bibliotecarios, puedes visitar la página https://www.uv.mx/estudiantes/apoyos/bibliotecarios/',
   options: {
     media: null,
     buttons: [],
@@ -39,95 +160,5 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '6290f88c9c844d287b6c8cf5db770a7d'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_37574596-8c9c-4f13-8778-a4d627c53341',
-  keyword: 'ans_24239f69-1525-4472-878a-b69de674c30b',
-  answer: '💻 *IL1*. ¿Qué es la IL? \n' +
-    '💻 *IL2*. ¿Cuándo es la IL? \n' +
-    '💻 *IL3*. Recomendaciones.  \n' +
-    '💻 *IL4*. ¿Cómo o cuándo escogeré mi horario para el siguiente periodo escolar? \n' +
-    '💻 *IL5*. ¿Podremos escoger con qué maestro inscribo las experiencias educativas de mi siguiente periodo escolar? \n' +
-    '💻 *IL6*. ¿Las experiencias educativas de PLANEA, son las que cursaré en el próximo periodo escolar? ',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object]
-    ],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'f44b6cfe1ba13e647311008ece933704'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5219671033036@s.whatsapp.net',
-    fromMe: false,
-    id: '9923903B1BC59F330CC6B8BD1A0BC08B',
-    participant: undefined
-  },
-  messageTimestamp: 1711993674,
-  pushName: 'Enrique',
-  broadcast: false,
-  message: Message {
-    conversation: 'Feliz cumpleaños hijo',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Feliz cumpleaños hijo',
-  from: '5219671033036'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5219671033036@s.whatsapp.net',
-    fromMe: false,
-    id: '3E20382959563902D5C881B756126C7C',
-    participant: undefined
-  },
-  messageTimestamp: 1711993681,
-  pushName: 'Enrique',
-  broadcast: false,
-  message: Message {
-    conversation: 'Que te la pases de lo mejor',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Que te la pases de lo mejor',
-  from: '5219671033036'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5219671033036@s.whatsapp.net',
-    fromMe: false,
-    id: '68370856CB7309AB3F3DF58924FC187B',
-    participant: undefined
-  },
-  messageTimestamp: 1711993690,
-  pushName: 'Enrique',
-  broadcast: false,
-  message: Message {
-    conversation: 'Te cuidas mucho y te mando un muy fuerte abrazo',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Te cuidas mucho y te mando un muy fuerte abrazo',
-  from: '5219671033036'
+  refSerialize: 'ee2a07fe0689e7accb504ee85e62eae4'
 }
